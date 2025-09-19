@@ -32,7 +32,9 @@ Il punto di giunzione (**Vout**) viene letto da Arduino tramite l’ingresso ana
 
 Arduino utilizza questa informazione per determinare la **direzione di rotazione** del motore, orientandolo verso la fotoresistenza più illuminata **seguendo dinamicamente la sorgente luminosa**.
 
-Questa logica viene eseguita in un **loop continuo**, realizzando un algoritmo semplice ma efficace per l'inseguimento della luce.
+Questa logica viene eseguita in un **loop continuo**, realizzando un algoritmo semplice ma efficace per l'inseguimento della luce. 
+[Guarda il video](./Video.mp4)
+
 
 ## ⚡ Verifica Assorbimento del Partitore
 <p align="center">
