@@ -65,13 +65,13 @@ Ecco alcune immagini del prototipo realizzato:
   <tr>
     <td style="display: flex; align-items: center;">
       <img width="270" height="225" alt="Vista posteriore" src="https://github.com/user-attachments/assets/a7d3a069-446a-4e7b-b8d0-d74ae533baeb" />
-      <span style="margin-left: 15px;">Vista posteriore della scheda (dettaglio giunto)</span>
+      <span style="margin-left: 15px;">Vista posteriore (dettaglio giunto)</span>
     </td>
   </tr>
   <tr>
     <td style="display: flex; align-items: center;">
       <img width="275" height="228" alt="Vista frontale" src="https://github.com/user-attachments/assets/568d19d8-e2c2-4633-a6ca-656f21a9614a" />
-      <span style="margin-left: 15px;">Vista frontale della scheda (dettaglio schermo luce e fotoresistori)</span>
+      <span style="margin-left: 15px;">Vista frontale (dettaglio schermo luce e fotoresistori)</span>
     </td>
   </tr>
   <tr>
