@@ -58,12 +58,31 @@ Questo progetto mi ha permesso di:
 ## 📷 Foto del Progetto
 
 Ecco alcune immagini del prototipo realizzato:
-## 📷 Foto del Progetto
 
-|     |   |
-|------|-------------|
-| <img width="270" height="225" alt="Vista posteriore" src="https://github.com/user-attachments/assets/a7d3a069-446a-4e7b-b8d0-d74ae533baeb" /> | Vista posteriore della scheda (dettaglio giunto) |
-| <img width="275" height="228" alt="Vista frontale" src="https://github.com/user-attachments/assets/568d19d8-e2c2-4633-a6ca-656f21a9614a" /> | Vista frontale della scheda (dettaglio schermo luce e fotoresistori) |
-| <img width="205" height="162" alt="Oggetto 3D giunto" src="https://github.com/user-attachments/assets/8d88cbd6-d7a8-44a4-89e1-5c41949986ea" /> <img width="293" height="214" alt="Oggetto 3D divisore" src="https://github.com/user-attachments/assets/9cc6b3d7-0489-4f14-a7b0-1f2a4e9f1638" /> | Oggetti stampati in 3D (giunto e divisore luce) |
-| <img width="304" height="287" alt="Vista insieme" src="https://github.com/user-attachments/assets/c44173a8-3c0a-4db9-8f5a-285d5dc74179" /> | Vista d’insieme del progetto |
-
+<table>
+  <tr>
+    <td style="display: flex; align-items: center;">
+      <img width="270" height="225" alt="Vista posteriore" src="https://github.com/user-attachments/assets/a7d3a069-446a-4e7b-b8d0-d74ae533baeb" />
+      <span style="margin-left: 15px;">Vista posteriore della scheda (dettaglio giunto)</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="display: flex; align-items: center;">
+      <img width="275" height="228" alt="Vista frontale" src="https://github.com/user-attachments/assets/568d19d8-e2c2-4633-a6ca-656f21a9614a" />
+      <span style="margin-left: 15px;">Vista frontale della scheda (dettaglio schermo luce e fotoresistori)</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="display: flex; align-items: center;">
+      <img width="205" height="162" alt="Oggetto 3D giunto" src="https://github.com/user-attachments/assets/8d88cbd6-d7a8-44a4-89e1-5c41949986ea" />
+      <img width="293" height="214" alt="Oggetto 3D divisore" src="https://github.com/user-attachments/assets/9cc6b3d7-0489-4f14-a7b0-1f2a4e9f1638" style="margin-left: 10px;" />
+      <span style="margin-left: 15px;">Oggetti stampati in 3D (giunto e divisore luce)</span>
+    </td>
+  </tr>
+  <tr>
+    <td style="display: flex; align-items: center;">
+      <img width="304" height="287" alt="Vista insieme" src="https://github.com/user-attachments/assets/c44173a8-3c0a-4db9-8f5a-285d5dc74179" />
+      <span style="margin-left: 15px;">Vista d’insieme del progetto</span>
+    </td>
+  </tr>
+</table>
