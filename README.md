@@ -3,14 +3,8 @@
 
 ## 📖 Descrizione
 Questo progetto consiste in un **inseguitore di luce** (light tracker) realizzato con una scheda **Arduino UNO**, due **fotoresistenze KLS6-3537** e un **motore passo-passo 28BYJ-48** controllato tramite il driver **ULN2003**.  
-
 Il sistema è in grado di rilevare la direzione della luce predominante e ruotare il motore in modo da orientarsi verso di essa.  
-È il mio primo progetto complesso con Arduino, attraverso il quale ho potuto apprendere:
-- l’interazione tra **sensori analogici** e **attuatori**,
-- il controllo di un **motore passo-passo**,
-- la **programmazione di sistemi embedded**.
-
----
+È il mio primo progetto complesso con Arduino
 
 ## 🛠️ Componenti Utilizzati
 - Arduino UNO (o compatibile)
@@ -40,3 +34,42 @@ Arduino utilizza questa informazione per determinare la **direzione di rotazione
 
 Questa logica viene eseguita in un **loop continuo**, realizzando un algoritmo semplice ma efficace per l'inseguimento della luce.
 
+## ⚡ Verifica Assorbimento del Partitore
+<p align="center">
+<img width="455" height="155" alt="image" src="https://github.com/user-attachments/assets/14bdcc3f-c351-4b0f-a9b9-4ab09f966c50" /></p>
+<p >
+<img width="325" height="167" alt="image" src="https://github.com/user-attachments/assets/9ed357fd-2322-4e6c-ac75-1b7a3b5dc0b4" /></p>
+<p >
+<img width="385" height="195" alt="image" src="https://github.com/user-attachments/assets/af409b77-f818-4c3a-9a02-a9427507c3a7" /></p>
+
+Il circuito non comporta forti assorbimenti, nemmeno nei casi estremi:
+- 🌑 **In buio totale** il consumo è quasi nullo.  
+- 💡 **In luce intensa** il consumo rimane ben sotto il milliampere.
+
+## 📝 Conclusioni
+
+Questo progetto mi ha permesso di:
+- 🔧 Comprendere il funzionamento dei **partitori di tensione** e la **lettura analogica** con Arduino.  
+- ⚙️ Controllare un **motore passo-passo** mediante sequenze di attivazione.  
+- 🔦 Creare un semplice **algoritmo di inseguimento della luce** basato su confronto sensoriale.  
+- 🖥️ Imparare a gestire **hardware e software** in modo integrato.  
+
+È stata un'esperienza formativa che ha gettato le basi per **progetti futuri più complessi e interattivi**.
+## 📷 Foto del Progetto
+
+Ecco alcune immagini del prototipo realizzato:
+<p align="center">
+ <img width="543" height="457" alt="image" src="https://github.com/user-attachments/assets/a7d3a069-446a-4e7b-b8d0-d74ae533baeb" /><br/>
+- 🔙 Vista posteriore della scheda (dettaglio giunto) 
+</p>
+
+<p align="center">
+  <img width="550" height="456" alt="image" src="https://github.com/user-attachments/assets/568d19d8-e2c2-4633-a6ca-656f21a9614a" /><br/>
+- 🔛 Vista frontale della scheda** (dettaglio schermo luce e fotoresistori)  
+</p>
+
+<p align="center">
+- 🖨️ Oggetti stampati in 3D (giunto e divisore luce)  
+
+<p align="center">
+- 🌐 Vista d’insieme del progetto
